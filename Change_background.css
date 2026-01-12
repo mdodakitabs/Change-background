@@ -1,0 +1,38 @@
+/* Style the button with the id 'colorBtn' */
+#colorBtn {
+  /* Set the text color to dark red */
+  color: darkred;
+  
+  /* Set the background color to indian red */
+  background: indianred;
+  
+  /* Set the font size to 20px */
+  font-size: 20px;
+  
+  /* Center the text horizontally */
+  text-align: center;
+  
+  /* Add some padding to the button */
+  padding: 10px;
+  
+  /* Add a rounded corner effect to the button */
+  border-radius: 8px;
+  
+  /* Duplicate property, can be removed */
+  /* font-size: 20px; */
+  
+  /* Duplicate property, can be removed and merged with above border-radius */
+  /* border-radius: 20px; */
+  
+  /* Set the width of the button to 60% of its parent */
+  width: 60%;
+  
+  /* Add some margin to the top of the button */
+  margin-top: 70%;
+  
+  /* Add some margin to the left and right of the button */
+  margin-inline: 20%;
+  
+  /* Add a box shadow effect to the button */
+  box-shadow: 2px 2px 20px;
+}
