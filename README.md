@@ -16,8 +16,6 @@ A simple web application that changes the background color of the page when a bu
 1. Open the `change_background.html` file in a web browser
 2. Click the "click" button to change the background color
 
-## Screenshot
-![Random Background Color Changer](screenshot.png)
 
 ## Code Structure
 * `change_background.html`: The main HTML file that contains the button and links to the CSS and JavaScript files
